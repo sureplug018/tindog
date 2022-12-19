@@ -1,0 +1,171 @@
+/* heading */
+.heading {
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-image {
+  width: 70%;
+  transform: rotate(25deg);
+  position: relative;
+}
+
+/* navbar */
+.nav-item {
+  padding: 0 18px;
+  text-align: left;
+}
+
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.navbar-light .navbar-brand {
+  color: #fff;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 90px;
+  color: #fff;
+}
+
+.download-button {
+  width: 150px;
+  height: 50px;
+  margin: 5% 5% 5% 0;
+}
+
+/* features */
+.features {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: #fff;
+  margin-top: -200px;
+  position: relative;
+  z-index: 1;
+  padding: 50px 15% 100px;
+}
+
+.icon {
+  padding: 30px;
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* testimonials */
+.testimonials {
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.slide {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 3% 0;
+}
+
+.testimonial-image {
+  width: 6.25rem;
+  border-radius: 100%;
+  margin: 1%;
+}
+
+.testimonial-text {
+  padding: 2% 10%;
+}
+
+/* press */
+.press {
+  background-color: #ef8172;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.press-image {
+  width: 10%;
+  margin: 5% 2%;
+}
+
+/* pricing */
+.card {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.card-content {
+  padding: 2% 10%;
+}
+
+.pricing {
+  text-align: center;
+  padding: 5% 0;
+}
+
+.carding {
+  line-height: 0.87rem;
+}
+
+/* footer */
+.cta {
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat" bold, sans-serif;
+  color: #fff;
+  padding-top: 3rem;
+}
+
+.cta-h3 {
+  font-size: 3.5rem;
+}
+
+.last-button {
+  width: 150px;
+  height: 50px;
+  margin: 5% 1%;
+}
+
+.footer{
+  text-align: center;
+  padding: 3rem;
+  background-color: #282A3A;
+}
+
+.Copyright{
+  color: grey;
+}
+
+.footer-fa{
+  color: grey;
+  margin: 0.5% 1.5%;
+}

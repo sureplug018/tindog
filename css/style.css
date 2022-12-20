@@ -1,4 +1,8 @@
 /* heading */
+html {
+  scroll-behavior: smooth;
+}
+
 .heading {
   background-color: #ff4c68;
 }

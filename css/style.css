@@ -160,22 +160,22 @@ h1 {
   margin: 5% 1%;
 }
 
-.footer{
+.footer {
   text-align: center;
   padding: 3rem;
   background-color: #282A3A;
 }
 
-.Copyright{
+.Copyright {
   color: grey;
 }
 
-.footer-fa{
+.footer-fa {
   color: grey;
   margin: 0.5% 1.5%;
 }
 
-.scroll-button {
+.scroll-button{
   color: #fff;
   border: none;
   position: fixed;
@@ -185,3 +185,4 @@ h1 {
   background-color: black;
   border-radius: 30px;
 }
+
